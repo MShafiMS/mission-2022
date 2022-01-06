@@ -1,0 +1,116 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    margin: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: 'Noto Serif Display', serif;
+}
+.stay-focused{
+    display: flex;
+}
+.foc{
+    color: rgb(238, 75, 75);
+}
+.half-width{
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 4%;
+}
+.half-width img{
+    width: 70%;
+    padding-top: 0;
+}
+.header{
+    border-left: 4px solid rgb(238, 75, 75);
+    border-radius: 3px;
+    line-height: 55px;
+}
+.Mission{
+    padding-top: 150px;
+}
+.miss{
+    color: rgb(233, 174, 66);
+}
+p{
+    padding: 20px 0px;
+}
+.para{
+    color: gray;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(238, 75, 75);
+    color: white;
+    font-weight: 700;
+    padding: 13px 35px;
+    border-radius: 5px;
+}
+.stay-focus{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 0;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.stay-focus img{
+    width: 40%;
+}
+.mission{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.mis{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.mss{
+    background-color: rgb(243, 243, 255);
+}
+.vss{
+    background-color: rgb(252, 235, 235);
+}
+.gls{
+    background-color: rgb(255, 243, 211);
+}
+.deve{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position-x: -5px;
+    background-position-y: 100px;
+    margin: 0;
+}
+
+#deve h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+.Global{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 14%;
+    background-position-x: 1040px;
+    background-position-y: 370px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+footer h2{
+    font-size: 35px;
+    padding-top: 15px;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+footer p{
+    color: grey;
+}

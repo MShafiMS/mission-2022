@@ -12,7 +12,7 @@ h1{
     display: flex;
 }
 .foc{
-    color: rgb(238, 75, 75);
+    color: rgb(241, 37, 37);
 }
 .half-width{
     width: 50%;
@@ -29,7 +29,7 @@ h1{
   padding: 20px;
 }
 .header{
-    border-left: 4px solid rgb(238, 75, 75);
+    border-left: 4px solid rgb(216, 69, 93);
     border-radius: 3px;
     line-height: 55px;
 }
@@ -37,7 +37,7 @@ h1{
     padding-top: 150px;
 }
 .miss{
-    color: rgb(233, 174, 66);
+    color: rgb(179, 73, 91);
 }
 p{
     padding: 20px 0px;
@@ -47,7 +47,7 @@ p{
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(238, 75, 75);
+    background-color: rgb(216, 69, 93);
     color: white;
     font-weight: 700;
     padding: 13px 35px;
@@ -107,7 +107,7 @@ p{
     background-position-y: 370px;
 }
 footer{
-    background-color: black;
+    background-color: rgb(0, 0, 68);
     text-align: center;
 }
 footer h2{
